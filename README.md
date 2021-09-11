@@ -31,8 +31,8 @@ Desktop design:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/stats-preview-card-solution-html-and-css-flexbox-and-mobile-first-nYoLewzdj)
+- Live Site URL: [Add live site URL here](https://5elza5.github.io/FM-Stats-Preview-Card/)
 
 ## My process
 
